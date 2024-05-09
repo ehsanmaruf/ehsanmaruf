@@ -1,4 +1,4 @@
-[![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)]
+![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)
 <h1 align="center">Hi 👋, I'm Maruf</h1>
 <h3 align="center">A passionate Software Engineer and Innovative Thinker, I am passionate about creating software that functions logically and meets the needs of clients.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
