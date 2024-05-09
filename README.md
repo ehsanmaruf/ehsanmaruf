@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAj4N9XKxYu323ZAT1Cbp6yI_hJiE-3yR0wD6yBSKxWPYcKuoqfKsuVVkSpxaQZeW9J8&usqp=CAU)]
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAj4N9XKxYu323ZAT1Cbp6yI_hJiE-3yR0wD6yBSKxWPYcKuoqfKsuVVkSpxaQZeW9J8&usqp=CAU](https://media.licdn.com/dms/image/D4E12AQEnNKiiNUKz9Q/article-cover_image-shrink_720_1280/0/1693476739453?e=2147483647&v=beta&t=vA7q5Jo23C2UXQE4FQ3lTlpB7ugmZa5QZzAfSQ5rQ-A))]
 <h1 align="center">Hi 👋, I'm Maruf</h1>
 <h3 align="center">A passionate Software Engineer and Innovative Thinker, I am passionate about creating software that functions logically and meets the needs of clients.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
