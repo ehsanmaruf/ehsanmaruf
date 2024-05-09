@@ -1,4 +1,4 @@
-[![MasterHead](https://images.ctfassets.net/szez98lehkfm/5RPbDihFheFvN1RWhyRfbY/fb286bb568a3d5c093419dee333113e8/MyIC_Article_114191?w=730&h=410&fm=jpg&fit=fill)]
+[![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)]
 <h1 align="center">Hi 👋, I'm Maruf</h1>
 <h3 align="center">A passionate Software Engineer and Innovative Thinker, I am passionate about creating software that functions logically and meets the needs of clients.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
