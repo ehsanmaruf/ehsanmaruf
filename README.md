@@ -1,4 +1,6 @@
-![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)
+<p align="center">
+  <img src="./banner.svg" alt="Mohammad Maruf · Full Stack Developer" width="100%"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Maruf</h1>
 <h3 align="center">Full Stack Developer · MERN + PostgreSQL · Docker & DevOps · AI Integrations</h3>
@@ -12,7 +14,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently building the **[Member Lounge](https://memberlounge.app/) portal** as a Full Stack Developer
-- 🍔 Previously worked on **[FOODI](https://foodibd.com/)**
+- 🍔 Previously worked on **[FOODI](https://foodibd.com/)**a
 - 🧱 Full stack: **MongoDB · Express · React · Node.js** + **PostgreSQL**
 - 🐳 Ship with **Docker**, CI/CD pipelines, Linux servers and Nginx
 - 🤖 Integrate **AI APIs** (OpenAI, Claude and more) for chatbots, content generation and automation
